@@ -399,7 +399,7 @@ body
 	line-height: 40px;
 	border: none;
 	text-indent: 8px;
-	margin: 7px;
+	margin: 6px;
 }
 
 .content-right input.submit
@@ -409,7 +409,7 @@ body
 
 .content-right textarea
 {
-	width: 99%;
+	width: 98%;
 	height: 120px;
 	text-indent: 8px;
 	margin: 6px;
